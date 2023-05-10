@@ -12,7 +12,7 @@ function getMinOfArray(arr){
 }
 
 console.log(getMinOfArray(myArr))
-
+//Some changes was approoved 
 
 //Task 2
 const myArr1 = [45, 34, 56, 77, 55, 25, 18, 2]
